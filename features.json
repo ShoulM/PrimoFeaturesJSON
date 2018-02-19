@@ -14,7 +14,8 @@
 		"who": "Noam Amit",
 		"what": "Demo from Eluna",
 		"linkGit": "https://github.com/noamamit92/primo-explore-search-bar-demo",
-		"npmid": "primo-explore-search-bar-demo"
+		"npmid": "primo-explore-search-bar-demo",
+		"hook": "prm-search-bar-after"
 	},
 	{
 		"face": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXqD0HzChZD5uBY-xTjHpVWdiSu_EhkqokwF91P73xSZcZ4Klxg",
