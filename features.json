@@ -3,18 +3,18 @@
 		"face": "https://images.virtualprogaming.com/images/team/383/logo.png",
 		"notes": "no notes",
 		"who": "Shoul Manevitz",
-		"what": "search bar featuer demo1",
+		"what": "search bar featuer demo a",
 		"linkGit": "https://github.com/noamamit92/primo-explore-search-bar-demo",
-		"npmid": "primo-explore-app-store-feature-demo1",
+		"npmid": "primo-explore-app-store-feature-demo-a",
 		"hook": "prm-search-bar-after"
 	},
 	{
 		"face": "https://images.virtualprogaming.com/images/team/383/logo.png",
 		"notes": "no notes",
 		"who": "Shoul Manevitz",
-		"what": "search bar featuer demo2",
+		"what": "search bar featuer demo b",
 		"linkGit": "https://github.com/noamamit92/primo-explore-search-bar-demo",
-		"npmid": "primo-explore-app-store-feature-demo2",
+		"npmid": "primo-explore-app-store-feature-demo-b",
 		"hook": "prm-search-bar-after"
 	},
 	{
