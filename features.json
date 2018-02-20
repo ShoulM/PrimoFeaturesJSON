@@ -1,6 +1,24 @@
 [
 	{
 		"face": "https://avatars1.githubusercontent.com/u/8035487?s=460&v=4",
+		"notes": "no notes",
+		"who": "Shoul Manevitz",
+		"what": "search bar featuer demo1",
+		"linkGit": "https://github.com/noamamit92/primo-explore-search-bar-demo",
+		"npmid": "primo-explore-app-store-feature-demo1",
+		"hook": "prm-search-bar-after"
+	},
+	{
+		"face": "https://avatars1.githubusercontent.com/u/8035487?s=460&v=4",
+		"notes": "no notes",
+		"who": "Shoul Manevitz",
+		"what": "search bar featuer demo2",
+		"linkGit": "https://github.com/noamamit92/primo-explore-search-bar-demo",
+		"npmid": "primo-explore-app-store-feature-demo2",
+		"hook": "prm-search-bar-after"
+	},
+	{
+		"face": "https://avatars1.githubusercontent.com/u/8035487?s=460&v=4",
 		"what": "Linked data",
 		"who": "Noam Amit",
 		"when": "3:08PM",
