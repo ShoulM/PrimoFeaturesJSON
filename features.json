@@ -1,5 +1,14 @@
 [
 	{
+		"face": "https://avatars1.githubusercontent.com/u/13090?s=400&v=4",
+		"notes": "no notes",
+		"who": "Mehmet Celik",
+		"what": "Date slider for range facet",
+		"linkGit": "https://github.com/noamamit92/primo-explore-search-bar-demo",
+		"npmid": "primo-explore-date-slider",
+		"hook": "prm-facet-range-after"
+	},
+	{
 		"face": "https://images.virtualprogaming.com/images/team/383/logo.png",
 		"notes": "no notes",
 		"who": "Shoul Manevitz",
