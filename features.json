@@ -15,7 +15,7 @@
 		"what": "search bar featuer demo a",
 		"linkGit": "https://github.com/noamamit92/primo-explore-search-bar-demo",
 		"npmid": "primo-explore-app-store-feature-demo-a",
-		"hook": "prm-search-bar-after"
+		"hook": "prm-logo-after"
 	},
 	{
 		"face": "https://images.virtualprogaming.com/images/team/383/logo.png",
