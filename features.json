@@ -52,14 +52,5 @@
 		"notes": "Integrating a Google maps iframe to each location item based on the callNumber",
 		"linkGit": "https://github.com/noamamit92/primo-explore-location-item-after-google-maps-demo",
 		"npmid": "primo-explore-location-item-after-protractor-demo"
-	},
-	{
-		"face": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrMmvgnyOTSLXKKifrhwmwZLmjsdq_9qsjf5hPAecOYp-jJEbc",
-		"what": "Google Maps in Locations",
-		"who": "Noam Amit",
-		"when": "3:08PM",
-		"notes": "Integrating a Google maps iframe to each location item based on the callNumber",
-		"linkGit": "https://github.com/noamamit92/primo-explore-location-item-after-google-maps-demo",
-		"npmid": "https://github.com/noamamit92/primo-explore-location-item-after-google-maps-demo"
 	}
 ]
