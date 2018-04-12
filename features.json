@@ -61,14 +61,5 @@
 		"notes": "Integrating a Google maps iframe to each location item based on the callNumber",
 		"linkGit": "https://github.com/noamamit92/primo-explore-location-item-after-google-maps-demo",
 		"npmid": "https://github.com/noamamit92/primo-explore-location-item-after-google-maps-demo"
-	},
-	{
-		"face": "http://documents.el-una.org/images/ELUNASm.jpg",
-		"what": "Google Maps in Locations",
-		"who": "Noam Amit",
-		"when": "3:08PM",
-		"notes": "Integrating a Google maps iframe to each location item based on the callNumber",
-		"linkGit": "https://github.com/noamamit92/primo-explore-location-item-after-google-maps-demo",
-		"npmid": "https://github.com/noamamit92/primo-explore-location-item-after-google-maps-demo"
 	}
 ]
