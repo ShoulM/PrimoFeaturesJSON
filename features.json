@@ -70,14 +70,5 @@
 		"notes": "Integrating a Google maps iframe to each location item based on the callNumber",
 		"linkGit": "https://github.com/noamamit92/primo-explore-location-item-after-google-maps-demo",
 		"npmid": "https://github.com/noamamit92/primo-explore-location-item-after-google-maps-demo"
-	},
-	{
-		"face": "https://images.virtualprogaming.com/images/team/383/logo.png",
-		"what": "Something very cool!",
-		"who": "Shoul",
-		"when": "3:08PM",
-		"notes": "Doing something bla bla bla...",
-		"linkGit": "https://github.com/ExLibrisGroup/primo-explore-linked-data-demo",
-		"npmid": "primo-explore-linked-data-demo"
 	}
 ]
