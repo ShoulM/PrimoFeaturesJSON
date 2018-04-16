@@ -1,5 +1,14 @@
 [
 	{
+		"face": "https://avatars0.githubusercontent.com/u/9952833?s=400&v=4",
+		"notes": "Add custom text and an option to expand results to PCI when no records retrieved",
+		"who": "Sarah Zum",
+		"what": "Custom text and link to PCI when no search results",
+		"linkGit": "https://github.com/SarahZum/primo-explore-custom-no-results",
+		"npmid": "primo-explore-custom-no-results",
+		"hook": "prm-no-search-result-after"
+	},
+	{
 		"face": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR63Hw5_KOSu46kUJhwJbxYFMbKxUsfIpwsKAq7gb99RD5pCK7",
 		"notes": "Slider input for range facet",
 		"who": "John Doe",
