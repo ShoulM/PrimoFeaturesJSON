@@ -1,9 +1,9 @@
 [
 	{
 		"face": "https://pbs.twimg.com/profile_images/905906120794963968/lHQ0ivpW_400x400.jpg",
-		"notes": "Override the "availability links" section in brief and full results with a link to your link resolver",
+		"notes": "Override the availability-links section in brief and full results with a link to your link resolver",
 		"who": "NYU Libraries",
-		"what": "Override the "availability links" section in brief and full results with a link to your link resolver",
+		"what": "Override the availability-links section in brief and full results with a link to your link resolver",
 		"linkGit": "https://github.com/NYULibraries/primo-explore-getit-to-link-resolver",
 		"npmid": "primo-explore-getit-to-link-resolver-studio",
 		"hook": "prm-search-result-availability-line-after"
