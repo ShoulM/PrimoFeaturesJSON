@@ -9,6 +9,15 @@
 		"hook": "prm-no-search-result-after"
 	},
 	{
+		"face": "https://avatars2.githubusercontent.com/u/5121409?s=200&v=4",
+		"notes": "When search results are displayed, a record's OCLC numbers are passed to the HathiTrust Bib API. If at least one item with free full-text access is found, a link to the HathiTrust record is appended to the availability section",
+		"who": "UMNLibraries",
+		"what": "primo-explore-hathitrust-availability",
+		"linkGit": "https://github.com/UMNLibraries/primo-explore-hathitrust-availability",
+		"npmid": "hathi-trust-availability-studio",
+		"hook": "prm-search-result-availability-line-after"
+	},
+	{
 		"face": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR63Hw5_KOSu46kUJhwJbxYFMbKxUsfIpwsKAq7gb99RD5pCK7",
 		"notes": "Slider input for range facet",
 		"who": "John Doe",
