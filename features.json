@@ -7,15 +7,19 @@
 		"linkGit": "https://github.com/SarahZum/primo-explore-custom-no-results",
 		"npmid": "search-bar-sub-menu-studio",
 		"hook": "prm-search-bar-after",
-		"config": [
-			{"key":"name"},
-			{"key":"description"},
-			{"key":"action"},
-			{"key":"iconSet"},
-			{"key":"iconName"},
-			{"key":"cssClasses"},
-			{"key":"show_xs"}
-		]
+		"config": {
+			"multiple":5,
+			"form":
+			[
+				{"key":"name"},
+				{"key":"description"},
+				{"key":"action"},
+				{"key":"iconSet"},
+				{"key":"iconName"},
+				{"key":"cssClasses"},
+				{"key":"show_xs"}
+			]
+		}
 	},
 	{
 		"face": "https://avatars0.githubusercontent.com/u/9952833?s=400&v=4",
