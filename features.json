@@ -1,5 +1,14 @@
 [
 	{
+		"face": "https://pbs.twimg.com/profile_images/905906120794963968/lHQ0ivpW_400x400.jpg",
+		"notes": "Add a nav bar underneath the search bar to provide additional links in the primo-explore UI",
+		"who": "NYU Libraries",
+		"what": "primo-explore-search-bar-sub-menu",
+		"linkGit": "https://github.com/SarahZum/primo-explore-custom-no-results",
+		"npmid": "search-bar-sub-menu-studio",
+		"hook": "prm-search-bar-after"
+	},
+	{
 		"face": "https://avatars0.githubusercontent.com/u/9952833?s=400&v=4",
 		"notes": "Add custom text and an option to expand results to PCI when no records retrieved",
 		"who": "Sarah Zum",
