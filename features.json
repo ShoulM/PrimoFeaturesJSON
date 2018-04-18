@@ -14,8 +14,8 @@
 				{"key":"name"},
 				{"key":"description"},
 				{"key":"action"},
-				{"key":"iconSet"},
-				{"key":"iconName"},
+				{"key":"iconSet", "templateOptions":{"label": "icon set"}},
+				{"key":"iconName", "templateOptions":{"label": "icon name"}},
 				{"key":"cssClasses"},
 				{"key":"show_xs"}
 			]
