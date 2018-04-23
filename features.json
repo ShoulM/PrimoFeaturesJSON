@@ -4,7 +4,7 @@
 		"notes": "Add a nav bar underneath the search bar to provide additional links in the primo-explore UI",
 		"who": "NYU Libraries",
 		"what": "primo-explore-search-bar-sub-menu",
-		"linkGit": "https://github.com/SarahZum/primo-explore-custom-no-results",
+		"linkGit": "https://github.com/NYULibraries/primo-explore-search-bar-sub-menu",
 		"npmid": "search-bar-sub-menu-studio",
 		"hook": "prm-search-bar-after",
 		"config": {
