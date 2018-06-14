@@ -6,6 +6,7 @@
 		"what": "primo-explore-search-bar-sub-menu",
 		"linkGit": "https://github.com/NYULibraries/primo-explore-search-bar-sub-menu",
 		"npmid": "search-bar-sub-menu-studio",
+		"version": "0.0.4",
 		"hook": "prm-search-bar-after",
 		"config": {
 			"multiple":5,
