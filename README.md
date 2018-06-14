@@ -8,4 +8,5 @@
 | `linkGit` | string | URL link for github of add-on |
 | `npmid` | string | ID of add-on as published on NPM |
 | `version` | string | Version of add-on to be installed from NPM. Necessary in order to update add-on in Primo Studio|
-| `hook` | string | name of hook where want to place add-on. E.g: prm-search-bar-after  |
+| `hook` | string | name of hook where want to place add-on. E.g: prm-search-bar-after  
+| `config` | Object | Object defining a form that will be opened in Primo Studio where users can enter configuration parameters for add-on   |
