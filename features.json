@@ -29,6 +29,7 @@
 		"what": "Custom text and link to PCI when no search results",
 		"linkGit": "https://github.com/SarahZum/primo-explore-custom-no-results",
 		"npmid": "primo-explore-custom-no-results",
+		"version": "0.0.2",
 		"hook": "prm-no-search-result-after"
 	},
 	{
@@ -38,6 +39,7 @@
 		"what": "primo-explore-hathitrust-availability",
 		"linkGit": "https://github.com/UMNLibraries/primo-explore-hathitrust-availability",
 		"npmid": "hathi-trust-availability-studio",
+		"version": "0.0.2",
 		"hook": "prm-search-result-availability-line-after"
 	},
 	{
@@ -47,6 +49,7 @@
 		"what": "Date slider for range facet",
 		"linkGit": "https://github.com/noamamit92/primo-explore-search-bar-demo",
 		"npmid": "primo-explore-date-slider",
+		"version": "0.0.1",
 		"hook": "prm-facet-range-after"
 	},
 	{
@@ -56,6 +59,7 @@
 		"what": "primo-explore-getit-to-link-resolver",
 		"linkGit": "https://github.com/NYULibraries/primo-explore-getit-to-link-resolver",
 		"npmid": "primo-explore-getit-to-link-resolver-studio",
+		"version": "2.0.7",
 		"hook": "prm-search-result-availability-line-after"
 	},
 	{
@@ -65,6 +69,7 @@
 		"what": "Search Bar Demo A",
 		"linkGit": "https://github.com/noamamit92/primo-explore-search-bar-demo",
 		"npmid": "primo-explore-app-store-feature-demo-a",
+		"version": "0.0.2",
 		"hook": "prm-search-bar-after"
 	},
 	{
@@ -74,6 +79,7 @@
 		"what": "Search Bar Demo B",
 		"linkGit": "https://github.com/noamamit92/primo-explore-search-bar-demo",
 		"npmid": "primo-explore-app-store-feature-demo-b",
+		"version": "0.0.2",
 		"hook": "prm-search-bar-after"
 	}
 ]
